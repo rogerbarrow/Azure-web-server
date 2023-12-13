@@ -18,3 +18,7 @@ Step 2. Create a Virtual Network and a Subnet Make
 
 Step3.Protecting a Subnet using a Network Security Group  
 <img width="455" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/da9e3be1-be35-416c-8da5-e47d268a2006">
+
+
+Step4. Assign your network security Group to you Virtual network 
+<img width="542" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/216fdb1d-b8c0-4b7d-9f35-2e41e87e172b">
