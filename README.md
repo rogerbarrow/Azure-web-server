@@ -60,6 +60,10 @@ Step 8  Locate your Public IP by going to VM -> Networking -> Ip configurations
 <img width="542" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/53217039-8455-4a67-8110-798709b0fdf7">
 
 
+step 9  Input the Public IP in web 
+<img width="546" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/307111d8-6d37-4204-94c9-e17531fe19e0">
+
+
 
 
 
