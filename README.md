@@ -64,6 +64,10 @@ step 9  Input the Public IP in web
 <img width="546" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/307111d8-6d37-4204-94c9-e17531fe19e0">
 
 
+Step 10;  Create a DNS Label 
+
+<img width="527" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/ba4924d1-4b51-4084-bfb1-1e41560a0cba">
+
 
 
 
