@@ -36,3 +36,8 @@ Step 5: Deploy Bastoin host to connect to the Virtual Machine, in order to creat
 
 
 <img width="491" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/0c1fc1f8-a698-403e-b562-1c5b954a8f88">
+
+
+Step 6: Create an Ubunto Server Virtual Machine
+
+<img width="545" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/74e63e72-9f89-4379-bfeb-bd7e91673ea0">
