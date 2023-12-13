@@ -18,7 +18,7 @@ Step 2. Create a Virtual Network and a Subnet Make.
 <img width="518" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/01ac572c-c658-46ce-b209-fccba47e16c0">
 
 
-Step3.Protecting a Subnet using a Network Security Group.
+Step 3.Protecting a Subnet using a Network Security Group.
 
 
 
@@ -26,7 +26,13 @@ Step3.Protecting a Subnet using a Network Security Group.
 
 
 
-Step4. Assign your network security Group to you Virtual network.
+Step 4. Assign your network security Group to you Virtual network.
 
 
 <img width="542" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/216fdb1d-b8c0-4b7d-9f35-2e41e87e172b">
+
+
+Step 5: Deploy Bastoin host to connect to the Virtual Machine, in order to create a bastion you will need to create new subnet 
+
+
+<img width="491" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/0c1fc1f8-a698-403e-b562-1c5b954a8f88">
