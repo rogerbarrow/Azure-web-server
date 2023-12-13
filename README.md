@@ -47,7 +47,15 @@ Step 6: Install Nextcloud by  connecting via SSH using Bastion
 <img width="465" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/5c833af6-6826-45cf-80b0-7d23ccc8cfbb">
 
 
-you are now Connented 
+you are now Connected
+
+
 <img width="532" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/2d3580eb-f710-4368-b69d-8a1b9e20c708">
+
+Step 7 Install next Cloud with the following command 
+
+<img width="247" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/578c6643-4520-4859-b1ea-16a6b28be756">
+
+
 
 
