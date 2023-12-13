@@ -10,15 +10,23 @@ Step 1. Create a Resource Group
 
 
 
-Step 2. Create a Virtual Network and a Subnet Make 
+Step 2. Create a Virtual Network and a Subnet Make.
 <img width="458" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/c5269740-693f-470f-9f38-284b1f32cb7a">
+
+
 
 <img width="518" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/01ac572c-c658-46ce-b209-fccba47e16c0">
 
 
-Step3.Protecting a Subnet using a Network Security Group  
+Step3.Protecting a Subnet using a Network Security Group.
+
+
+
 <img width="455" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/da9e3be1-be35-416c-8da5-e47d268a2006">
 
 
-Step4. Assign your network security Group to you Virtual network 
+
+Step4. Assign your network security Group to you Virtual network.
+
+
 <img width="542" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/216fdb1d-b8c0-4b7d-9f35-2e41e87e172b">
