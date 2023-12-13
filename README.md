@@ -56,6 +56,10 @@ Step 7 Install next Cloud with the following command
 
 <img width="247" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/578c6643-4520-4859-b1ea-16a6b28be756">
 
+Step 8  Locate your Public IP by going to VM -> Networking -> Ip configurations 
+<img width="542" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/53217039-8455-4a67-8110-798709b0fdf7">
+
+
 
 
 
