@@ -41,3 +41,13 @@ Step 5: Deploy Bastoin host to connect to the Virtual Machine, in order to creat
 Step 6: Create an Ubunto Server Virtual Machine
 
 <img width="545" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/74e63e72-9f89-4379-bfeb-bd7e91673ea0">
+
+Step 6: Install Nextcloud by  connecting via SSH using Bastion
+
+<img width="465" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/5c833af6-6826-45cf-80b0-7d23ccc8cfbb">
+
+
+you are now Connented 
+<img width="532" alt="image" src="https://github.com/rogerbarrow/Azure-web-server/assets/46138186/2d3580eb-f710-4368-b69d-8a1b9e20c708">
+
+
